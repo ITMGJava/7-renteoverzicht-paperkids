@@ -1,4 +1,4 @@
-# 6-Renteoverzicht
+# 7-Renteoverzicht
 
 - Schrijf een programma dat een renteoverzicht laat zien a.d.h.v. een bepaalde inleg: 
   - 100 t/m 299 Euro → 3% rente
