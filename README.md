@@ -8,8 +8,8 @@
 - Gebruik de beslissingsconstructie if-else om het programma te schrijven
 Voorbeeld output:
 ```shell
-Wat is je naam? 
-William
+Wlliaat is je naam? 
+      Wim
 Welk bedrag wil je sparen?
 1000
 Beste William, dit is je spaaroverzicht met een beginbedrag van 1000 en een rente van 3.0%:
